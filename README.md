@@ -18,4 +18,4 @@ jupyter notebook
 1. Four main notebooks: data processing, EKF Model, LSTM Model, and a comparison.
 2. Src: used python modules including the models and some data processing functions
 3. Plots and Images
-4. Data used
+4. Data used - Taken from Opensky Network

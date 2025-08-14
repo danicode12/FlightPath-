@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+pyproj
+filterpy
+tensorflow-macos; platform_system=="Darwin"
+tensorflow-metal; platform_system=="Darwin"
+tensorflow; platform_system!="Darwin"
+scikit-learn
+python-metar
+folium
+jupyter
